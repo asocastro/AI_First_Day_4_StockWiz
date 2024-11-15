@@ -1,41 +1,531 @@
 Date,Product,Category,Region,Units_Sold,Stock_Level_Before_Sale,Stock_Level_After_Sale,Sales_Revenue,Lead_Time_Days,Supplier,Weather_Factor
-2024-05-16 12:30:12.317470000,Gadget Y,Apparel,Iloilo,117,1006,889,28210.774348026895,7,Supplier_1,Stormy
-2024-05-21 03:16:21.548239230,Widget C,Household,Davao,138,541,403,50947.210664117796,5,Supplier_1,Cloudy
-2024-05-25 18:02:30.779008461,Widget C,Apparel,Iloilo,104,267,163,18150.96221150017,10,Supplier_4,Cloudy
-2024-05-30 08:48:40.009777692,Gadget Y,Outdoor,Metro Manila,167,353,186,31584.148451715155,5,Supplier_2,Cloudy
-2024-06-03 23:34:49.240546923,Widget A,Automotive,Metro Manila,33,1002,969,6139.083020632602,7,Supplier_3,Rainy
-2024-06-08 14:20:58.471316153,Widget B,Apparel,Iloilo,66,658,592,13848.829264396754,3,Supplier_1,Stormy
-2024-06-13 05:07:07.702085384,Widget B,Outdoor,Davao,138,421,283,34056.43053097733,7,Supplier_2,Cloudy
-2024-06-17 19:53:16.932854615,Tool Z,Household,Metro Manila,161,1065,904,59410.261653708025,10,Supplier_3,Cloudy
-2024-06-22 10:39:26.163623846,Gadget X,Apparel,Metro Manila,149,854,705,31049.667286400272,3,Supplier_3,Sunny
-2024-06-27 01:25:35.394393077,Widget A,Apparel,Davao,101,1031,930,38063.55554819462,3,Supplier_1,Stormy
-2024-07-01 16:11:44.625162307,Widget A,Outdoor,Metro Manila,117,989,872,23610.999288755902,7,Supplier_5,Rainy
-2024-07-06 06:57:53.855931538,Tool Z,Apparel,Iloilo,121,879,758,36260.287610098945,10,Supplier_1,Cloudy
-2024-07-10 21:44:03.086700769,Gadget Y,Household,Davao,170,893,723,39431.87226877276,10,Supplier_2,Cloudy
-2024-07-15 12:30:12.317470000,Gadget Y,Household,Metro Manila,54,207,153,13954.501569771059,3,Supplier_5,Cloudy
-2024-07-20 03:16:21.548239230,Widget A,Household,Cebu,102,1101,999,27692.538705111958,5,Supplier_1,Stormy
-2024-07-24 18:02:30.779008461,Widget A,Automotive,Cebu,249,931,682,59124.83379571747,10,Supplier_3,Cloudy
-2024-07-29 08:48:40.009777692,Tool Z,Household,Davao,211,295,84,45576.58197434228,7,Supplier_2,Cloudy
-2024-08-02 23:34:49.240546923,Widget B,Automotive,Metro Manila,56,184,128,12208.594601087207,10,Supplier_1,Sunny
-2024-08-07 14:20:58.471316154,Widget A,Apparel,Iloilo,127,542,415,28285.758750338213,10,Supplier_4,Sunny
-2024-08-12 05:07:07.702085384,Tool Z,Household,Iloilo,64,592,528,13606.472517778348,3,Supplier_4,Cloudy
-2024-08-16 19:53:16.932854615,Gadget X,Electronics,Davao,97,624,527,29502.445515960953,10,Supplier_5,Stormy
-2024-08-21 10:39:26.163623846,Tool Z,Electronics,Davao,147,644,497,31152.924687164526,5,Supplier_4,Rainy
-2024-08-26 01:25:35.394393076,Gadget Y,Household,Iloilo,73,706,633,13321.940020878099,5,Supplier_3,Sunny
-2024-08-30 16:11:44.625162308,Widget A,Household,Cebu,96,886,790,34883.78223908383,3,Supplier_2,Rainy
-2024-09-04 06:57:53.855931538,Gadget X,Apparel,Cebu,217,492,275,57010.266182321815,3,Supplier_3,Sunny
-2024-09-08 21:44:03.086700768,Widget A,Outdoor,Iloilo,68,267,199,19065.129420046083,3,Supplier_4,Stormy
-2024-09-13 12:30:12.317470000,Widget A,Outdoor,Cebu,111,1074,963,30042.715734417412,7,Supplier_1,Stormy
-2024-09-18 03:16:21.548239230,Widget A,Apparel,Davao,237,367,130,48536.39734651714,3,Supplier_3,Cloudy
-2024-09-22 18:02:30.779008460,Tool Z,Electronics,Iloilo,203,742,539,61892.62280137142,3,Supplier_4,Stormy
-2024-09-27 08:48:40.009777692,Gadget Y,Household,Baguio,97,1040,943,27388.464235257554,3,Supplier_3,Rainy
-2024-10-01 23:34:49.240546922,Widget A,Automotive,Metro Manila,223,427,204,55146.771294152706,3,Supplier_4,Rainy
-2024-10-06 14:20:58.471316154,Tool Z,Electronics,Metro Manila,150,922,772,34844.48683627498,10,Supplier_1,Sunny
-2024-10-11 05:07:07.702085384,Widget C,Outdoor,Iloilo,194,828,634,35301.98435564268,7,Supplier_2,Rainy
-2024-10-15 19:53:16.932854614,Widget B,Outdoor,Iloilo,118,424,306,31927.869773925737,10,Supplier_5,Sunny
-2024-10-20 10:39:26.163623846,Tool Z,Automotive,Cebu,87,1010,923,21375.890039418075,3,Supplier_4,Stormy
-2024-10-25 01:25:35.394393076,Gadget X,Electronics,Metro Manila,122,945,823,43033.25041682513,7,Supplier_2,Stormy
-2024-10-29 16:11:44.625162308,Tool Z,Automotive,Metro Manila,194,1043,849,70020.98457798608,5,Supplier_1,Sunny
-2024-11-03 06:57:53.855931538,Tool Z,Household,Cebu,75,625,550,29180.441156680976,3,Supplier_3,Cloudy
-2024-11-07 21:44:03.086700768,Widget A,Electronics,Iloilo,147,1004,857,47581.10379479737,5,Supplier_1,Rainy
-2024-11-12 12:30:12.317470000,Widget A,Automotive,Iloilo,272,856,584,52343.18728462135,7,Supplier_2,Rainy
+2023-01-01,Smartphone,Electronics,West,5,258,253,31835,1,Supplier_C,Stormy
+2023-01-01,Laptop,Electronics,West,6,485,479,87966,6,Supplier_A,Rainy
+2023-01-01,Refrigerator,Appliances,North,38,442,404,716034,7,Supplier_C,Rainy
+2023-01-01,Sofa,Furniture,South,38,381,343,371108,7,Supplier_A,Sunny
+2023-01-01,T-Shirt,Clothing,North,27,379,352,215487,2,Supplier_B,Sunny
+2023-01-01,Jeans,Clothing,South,45,274,229,466200,7,Supplier_A,Cloudy
+2023-01-01,LED TV,Electronics,East,43,298,255,632444,6,Supplier_C,Rainy
+2023-01-01,Microwave,Appliances,South,41,245,204,419963,2,Supplier_B,Cloudy
+2023-01-01,Teddy Bear,Toys,North,25,421,396,333775,14,Supplier_A,Rainy
+2023-01-01,Rice Cooker,Appliances,North,9,325,316,149895,9,Supplier_A,Cloudy
+2023-01-08,Smartphone,Electronics,West,15,429,414,109605,9,Supplier_B,Rainy
+2023-01-08,Laptop,Electronics,South,37,116,79,305213,10,Supplier_A,Cloudy
+2023-01-08,Refrigerator,Appliances,North,48,282,234,404928,2,Supplier_A,Sunny
+2023-01-08,Sofa,Furniture,South,31,415,384,291555,13,Supplier_A,Rainy
+2023-01-08,T-Shirt,Clothing,North,19,211,192,224523,11,Supplier_B,Cloudy
+2023-01-08,Jeans,Clothing,South,7,191,184,112609,6,Supplier_B,Cloudy
+2023-01-08,LED TV,Electronics,North,0,102,102,0,7,Supplier_A,Stormy
+2023-01-08,Microwave,Appliances,South,28,369,341,431004,4,Supplier_C,Rainy
+2023-01-08,Teddy Bear,Toys,West,24,247,223,144648,2,Supplier_A,Rainy
+2023-01-08,Rice Cooker,Appliances,East,29,119,90,510574,13,Supplier_A,Rainy
+2023-01-15,Smartphone,Electronics,West,28,409,381,525980,5,Supplier_C,Rainy
+2023-01-15,Laptop,Electronics,North,21,237,216,108570,6,Supplier_B,Rainy
+2023-01-15,Refrigerator,Appliances,South,46,331,285,291456,1,Supplier_B,Cloudy
+2023-01-15,Sofa,Furniture,West,20,378,358,22000,10,Supplier_B,Cloudy
+2023-01-15,T-Shirt,Clothing,West,25,423,398,145325,2,Supplier_B,Stormy
+2023-01-15,Jeans,Clothing,North,20,441,421,328320,14,Supplier_A,Sunny
+2023-01-15,LED TV,Electronics,East,11,401,390,136807,10,Supplier_A,Stormy
+2023-01-15,Microwave,Appliances,South,50,136,86,363450,10,Supplier_B,Sunny
+2023-01-15,Teddy Bear,Toys,East,41,293,252,639887,6,Supplier_C,Cloudy
+2023-01-15,Rice Cooker,Appliances,East,23,215,192,108031,4,Supplier_A,Sunny
+2023-01-22,Smartphone,Electronics,East,11,498,487,118877,5,Supplier_A,Sunny
+2023-01-22,Laptop,Electronics,South,24,446,422,372744,9,Supplier_A,Cloudy
+2023-01-22,Refrigerator,Appliances,West,17,477,460,212585,10,Supplier_C,Rainy
+2023-01-22,Sofa,Furniture,West,37,479,442,233359,7,Supplier_B,Sunny
+2023-01-22,T-Shirt,Clothing,North,45,454,409,43020,7,Supplier_C,Sunny
+2023-01-22,Jeans,Clothing,West,40,286,246,710360,7,Supplier_B,Stormy
+2023-01-22,LED TV,Electronics,East,26,333,307,291746,7,Supplier_C,Cloudy
+2023-01-22,Microwave,Appliances,East,40,403,363,538040,5,Supplier_B,Cloudy
+2023-01-22,Teddy Bear,Toys,East,42,483,441,711732,10,Supplier_C,Stormy
+2023-01-22,Rice Cooker,Appliances,East,48,165,117,849984,10,Supplier_B,Sunny
+2023-01-29,Smartphone,Electronics,East,28,275,247,444500,11,Supplier_B,Cloudy
+2023-01-29,Laptop,Electronics,East,14,128,114,55664,13,Supplier_C,Cloudy
+2023-01-29,Refrigerator,Appliances,South,35,417,382,253155,8,Supplier_B,Stormy
+2023-01-29,Sofa,Furniture,North,8,440,432,129632,14,Supplier_B,Cloudy
+2023-01-29,T-Shirt,Clothing,East,0,266,266,0,8,Supplier_C,Rainy
+2023-01-29,Jeans,Clothing,North,9,109,100,104382,7,Supplier_A,Sunny
+2023-01-29,LED TV,Electronics,West,14,374,360,100982,10,Supplier_B,Cloudy
+2023-01-29,Microwave,Appliances,East,12,383,371,114540,1,Supplier_A,Stormy
+2023-01-29,Teddy Bear,Toys,West,46,321,275,727996,1,Supplier_A,Cloudy
+2023-01-29,Rice Cooker,Appliances,West,10,217,207,182840,6,Supplier_A,Stormy
+2023-02-05,Smartphone,Electronics,South,18,175,157,65448,12,Supplier_C,Sunny
+2023-02-05,Laptop,Electronics,South,33,273,240,91740,13,Supplier_A,Cloudy
+2023-02-05,Refrigerator,Appliances,North,15,291,276,226065,5,Supplier_C,Rainy
+2023-02-05,Sofa,Furniture,East,2,372,370,13978,11,Supplier_C,Cloudy
+2023-02-05,T-Shirt,Clothing,East,4,414,410,56636,12,Supplier_B,Sunny
+2023-02-05,Jeans,Clothing,West,47,302,255,57481,14,Supplier_C,Stormy
+2023-02-05,LED TV,Electronics,South,44,496,452,761552,13,Supplier_A,Rainy
+2023-02-05,Microwave,Appliances,North,11,245,234,157520,12,Supplier_A,Cloudy
+2023-02-05,Teddy Bear,Toys,South,3,429,426,52095,14,Supplier_C,Sunny
+2023-02-05,Rice Cooker,Appliances,East,28,361,333,506856,5,Supplier_A,Rainy
+2023-02-12,Smartphone,Electronics,South,10,453,443,140760,14,Supplier_A,Cloudy
+2023-02-12,Laptop,Electronics,East,25,459,434,383525,6,Supplier_A,Rainy
+2023-02-12,Refrigerator,Appliances,East,0,414,414,0,3,Supplier_C,Sunny
+2023-02-12,Sofa,Furniture,South,0,499,499,0,5,Supplier_C,Stormy
+2023-02-12,T-Shirt,Clothing,East,30,206,176,426960,12,Supplier_C,Cloudy
+2023-02-12,Jeans,Clothing,West,39,252,213,390546,6,Supplier_C,Rainy
+2023-02-12,LED TV,Electronics,East,47,210,163,766664,8,Supplier_B,Sunny
+2023-02-12,Microwave,Appliances,South,22,249,227,16566,6,Supplier_A,Rainy
+2023-02-12,Teddy Bear,Toys,North,10,272,262,42780,5,Supplier_C,Stormy
+2023-02-12,Rice Cooker,Appliances,North,2,273,271,14378,9,Supplier_C,Sunny
+2023-02-19,Smartphone,Electronics,West,31,491,460,535773,14,Supplier_C,Stormy
+2023-02-19,Laptop,Electronics,East,12,184,172,194004,14,Supplier_B,Rainy
+2023-02-19,Refrigerator,Appliances,South,44,468,424,535260,2,Supplier_A,Sunny
+2023-02-19,Sofa,Furniture,East,19,144,125,164825,2,Supplier_B,Sunny
+2023-02-19,T-Shirt,Clothing,South,43,497,454,848175,12,Supplier_B,Cloudy
+2023-02-19,Jeans,Clothing,North,9,433,424,103032,1,Supplier_C,Stormy
+2023-02-19,LED TV,Electronics,North,3,311,308,29307,14,Supplier_B,Stormy
+2023-02-19,Microwave,Appliances,West,31,441,410,572973,8,Supplier_B,Stormy
+2023-02-19,Teddy Bear,Toys,South,45,456,411,543735,4,Supplier_C,Cloudy
+2023-02-19,Rice Cooker,Appliances,West,48,248,200,252624,8,Supplier_C,Sunny
+2023-02-26,Smartphone,Electronics,West,47,133,86,51324,9,Supplier_B,Sunny
+2023-02-26,Laptop,Electronics,West,3,440,437,30309,12,Supplier_B,Sunny
+2023-02-26,Refrigerator,Appliances,North,37,418,381,692307,2,Supplier_C,Cloudy
+2023-02-26,Sofa,Furniture,West,17,297,280,79067,12,Supplier_C,Cloudy
+2023-02-26,T-Shirt,Clothing,South,37,215,178,26455,5,Supplier_B,Cloudy
+2023-02-26,Jeans,Clothing,North,13,154,141,179231,12,Supplier_C,Sunny
+2023-02-26,LED TV,Electronics,North,27,341,314,388935,3,Supplier_B,Sunny
+2023-02-26,Microwave,Appliances,North,49,401,352,751954,3,Supplier_C,Rainy
+2023-02-26,Teddy Bear,Toys,East,41,361,320,408032,2,Supplier_C,Sunny
+2023-02-26,Rice Cooker,Appliances,North,1,390,389,6894,3,Supplier_C,Sunny
+2023-03-05,Smartphone,Electronics,West,40,283,243,769360,6,Supplier_B,Sunny
+2023-03-05,Laptop,Electronics,East,5,473,468,30080,14,Supplier_A,Stormy
+2023-03-05,Refrigerator,Appliances,South,19,260,241,164540,14,Supplier_B,Rainy
+2023-03-05,Sofa,Furniture,West,1,404,403,12963,14,Supplier_C,Rainy
+2023-03-05,T-Shirt,Clothing,West,6,260,254,95946,7,Supplier_C,Rainy
+2023-03-05,Jeans,Clothing,West,9,428,419,97983,6,Supplier_B,Stormy
+2023-03-05,LED TV,Electronics,West,23,444,421,203343,3,Supplier_B,Stormy
+2023-03-05,Microwave,Appliances,North,28,489,461,332836,8,Supplier_C,Rainy
+2023-03-05,Teddy Bear,Toys,East,5,309,304,50850,7,Supplier_B,Sunny
+2023-03-05,Rice Cooker,Appliances,East,8,160,152,16888,11,Supplier_C,Rainy
+2023-03-12,Smartphone,Electronics,South,38,108,70,493962,1,Supplier_B,Cloudy
+2023-03-12,Laptop,Electronics,West,50,328,278,680850,11,Supplier_A,Sunny
+2023-03-12,Refrigerator,Appliances,East,32,175,143,621408,5,Supplier_B,Cloudy
+2023-03-12,Sofa,Furniture,North,29,460,431,556278,5,Supplier_B,Rainy
+2023-03-12,T-Shirt,Clothing,North,29,355,326,486475,5,Supplier_A,Stormy
+2023-03-12,Jeans,Clothing,North,41,160,119,591220,13,Supplier_C,Stormy
+2023-03-12,LED TV,Electronics,East,39,374,335,405327,10,Supplier_C,Rainy
+2023-03-12,Microwave,Appliances,East,40,429,389,484520,2,Supplier_A,Rainy
+2023-03-12,Teddy Bear,Toys,West,29,358,329,53795,13,Supplier_A,Stormy
+2023-03-12,Rice Cooker,Appliances,North,5,297,292,48165,6,Supplier_B,Sunny
+2023-03-19,Smartphone,Electronics,North,12,298,286,20616,11,Supplier_B,Cloudy
+2023-03-19,Laptop,Electronics,North,28,190,162,86744,2,Supplier_A,Rainy
+2023-03-19,Refrigerator,Appliances,South,20,384,364,329600,4,Supplier_B,Cloudy
+2023-03-19,Sofa,Furniture,East,32,122,90,63520,4,Supplier_B,Rainy
+2023-03-19,T-Shirt,Clothing,East,21,446,425,178668,1,Supplier_C,Cloudy
+2023-03-19,Jeans,Clothing,West,33,137,104,129030,6,Supplier_A,Sunny
+2023-03-19,LED TV,Electronics,East,17,196,179,10319,2,Supplier_B,Cloudy
+2023-03-19,Microwave,Appliances,West,3,269,266,37764,13,Supplier_B,Stormy
+2023-03-19,Teddy Bear,Toys,North,6,174,168,4014,10,Supplier_A,Sunny
+2023-03-19,Rice Cooker,Appliances,South,16,318,302,276240,9,Supplier_A,Rainy
+2023-03-26,Smartphone,Electronics,South,8,412,404,122992,9,Supplier_C,Sunny
+2023-03-26,Laptop,Electronics,East,30,190,160,354720,9,Supplier_B,Stormy
+2023-03-26,Refrigerator,Appliances,South,31,164,133,229741,7,Supplier_C,Cloudy
+2023-03-26,Sofa,Furniture,South,37,228,191,570873,14,Supplier_A,Rainy
+2023-03-26,T-Shirt,Clothing,South,3,286,283,20556,8,Supplier_B,Cloudy
+2023-03-26,Jeans,Clothing,West,1,311,310,16096,11,Supplier_B,Stormy
+2023-03-26,LED TV,Electronics,West,23,180,157,442589,13,Supplier_C,Rainy
+2023-03-26,Microwave,Appliances,West,9,456,447,55953,7,Supplier_A,Stormy
+2023-03-26,Teddy Bear,Toys,East,26,354,328,421434,14,Supplier_B,Cloudy
+2023-03-26,Rice Cooker,Appliances,South,29,311,282,395212,12,Supplier_A,Rainy
+2023-04-02,Smartphone,Electronics,East,11,378,367,141768,8,Supplier_A,Cloudy
+2023-04-02,Laptop,Electronics,South,32,111,79,317632,5,Supplier_C,Sunny
+2023-04-02,Refrigerator,Appliances,West,38,282,244,232712,7,Supplier_C,Stormy
+2023-04-02,Sofa,Furniture,West,7,147,140,51765,9,Supplier_B,Stormy
+2023-04-02,T-Shirt,Clothing,West,32,188,156,439520,5,Supplier_B,Stormy
+2023-04-02,Jeans,Clothing,South,1,411,410,13482,8,Supplier_A,Stormy
+2023-04-02,LED TV,Electronics,North,27,126,99,444771,3,Supplier_B,Stormy
+2023-04-02,Microwave,Appliances,South,14,316,302,62160,11,Supplier_C,Stormy
+2023-04-02,Teddy Bear,Toys,West,30,430,400,479730,9,Supplier_C,Stormy
+2023-04-02,Rice Cooker,Appliances,West,34,288,254,300152,7,Supplier_C,Sunny
+2023-04-09,Smartphone,Electronics,West,23,465,442,319562,2,Supplier_C,Cloudy
+2023-04-09,Laptop,Electronics,East,39,356,317,227604,4,Supplier_A,Cloudy
+2023-04-09,Refrigerator,Appliances,West,35,122,87,524125,1,Supplier_C,Sunny
+2023-04-09,Sofa,Furniture,East,36,392,356,548388,9,Supplier_A,Rainy
+2023-04-09,T-Shirt,Clothing,North,50,148,98,122050,14,Supplier_A,Sunny
+2023-04-09,Jeans,Clothing,South,34,402,368,43078,3,Supplier_B,Sunny
+2023-04-09,LED TV,Electronics,West,8,486,478,67304,13,Supplier_B,Sunny
+2023-04-09,Microwave,Appliances,South,35,299,264,367640,6,Supplier_C,Sunny
+2023-04-09,Teddy Bear,Toys,South,29,293,264,213469,2,Supplier_B,Cloudy
+2023-04-09,Rice Cooker,Appliances,North,44,487,443,778404,1,Supplier_A,Rainy
+2023-04-16,Smartphone,Electronics,East,35,302,267,394135,11,Supplier_A,Sunny
+2023-04-16,Laptop,Electronics,South,28,436,408,193816,1,Supplier_C,Rainy
+2023-04-16,Refrigerator,Appliances,South,40,274,234,711240,14,Supplier_C,Sunny
+2023-04-16,Sofa,Furniture,North,15,274,259,193560,12,Supplier_C,Rainy
+2023-04-16,T-Shirt,Clothing,East,21,454,433,101976,5,Supplier_A,Stormy
+2023-04-16,Jeans,Clothing,North,48,128,80,204912,5,Supplier_B,Sunny
+2023-04-16,LED TV,Electronics,South,5,207,202,72210,1,Supplier_C,Stormy
+2023-04-16,Microwave,Appliances,West,21,461,440,372204,1,Supplier_B,Cloudy
+2023-04-16,Teddy Bear,Toys,West,48,281,233,41088,8,Supplier_C,Sunny
+2023-04-16,Rice Cooker,Appliances,North,21,119,98,264390,7,Supplier_C,Cloudy
+2023-04-23,Smartphone,Electronics,West,36,370,334,152856,9,Supplier_A,Stormy
+2023-04-23,Laptop,Electronics,West,36,473,437,530640,9,Supplier_A,Stormy
+2023-04-23,Refrigerator,Appliances,West,50,187,137,550750,2,Supplier_A,Stormy
+2023-04-23,Sofa,Furniture,East,46,292,246,30544,11,Supplier_B,Stormy
+2023-04-23,T-Shirt,Clothing,East,9,458,449,163287,5,Supplier_C,Cloudy
+2023-04-23,Jeans,Clothing,West,5,371,366,75535,12,Supplier_A,Cloudy
+2023-04-23,LED TV,Electronics,North,16,246,230,308592,1,Supplier_A,Cloudy
+2023-04-23,Microwave,Appliances,South,11,297,286,48752,10,Supplier_A,Cloudy
+2023-04-23,Teddy Bear,Toys,West,37,197,160,457801,11,Supplier_C,Stormy
+2023-04-23,Rice Cooker,Appliances,West,7,322,315,139216,2,Supplier_C,Cloudy
+2023-04-30,Smartphone,Electronics,East,19,420,401,312341,1,Supplier_A,Stormy
+2023-04-30,Laptop,Electronics,East,14,294,280,95144,11,Supplier_B,Sunny
+2023-04-30,Refrigerator,Appliances,North,22,123,101,256256,13,Supplier_C,Rainy
+2023-04-30,Sofa,Furniture,East,8,290,282,42664,5,Supplier_C,Stormy
+2023-04-30,T-Shirt,Clothing,East,38,400,362,222566,1,Supplier_C,Stormy
+2023-04-30,Jeans,Clothing,West,6,341,335,29076,13,Supplier_A,Stormy
+2023-04-30,LED TV,Electronics,West,23,405,382,49312,13,Supplier_C,Rainy
+2023-04-30,Microwave,Appliances,North,40,286,246,556520,6,Supplier_C,Stormy
+2023-04-30,Teddy Bear,Toys,South,25,261,236,388825,5,Supplier_A,Rainy
+2023-04-30,Rice Cooker,Appliances,East,38,230,192,448894,12,Supplier_C,Sunny
+2023-05-07,Smartphone,Electronics,South,28,458,430,175952,10,Supplier_C,Rainy
+2023-05-07,Laptop,Electronics,North,27,419,392,324054,5,Supplier_B,Sunny
+2023-05-07,Refrigerator,Appliances,North,2,401,399,8178,12,Supplier_C,Stormy
+2023-05-07,Sofa,Furniture,North,13,287,274,124761,12,Supplier_B,Stormy
+2023-05-07,T-Shirt,Clothing,South,3,458,455,22203,2,Supplier_B,Stormy
+2023-05-07,Jeans,Clothing,East,22,139,117,169334,9,Supplier_A,Sunny
+2023-05-07,LED TV,Electronics,West,48,347,299,953136,14,Supplier_C,Cloudy
+2023-05-07,Microwave,Appliances,North,48,111,63,82176,14,Supplier_A,Stormy
+2023-05-07,Teddy Bear,Toys,South,26,122,96,379678,2,Supplier_C,Cloudy
+2023-05-07,Rice Cooker,Appliances,North,41,258,217,48298,2,Supplier_B,Stormy
+2023-05-14,Smartphone,Electronics,North,21,489,468,169659,11,Supplier_A,Rainy
+2023-05-14,Laptop,Electronics,South,34,411,377,570112,2,Supplier_C,Rainy
+2023-05-14,Refrigerator,Appliances,East,24,314,290,73824,6,Supplier_A,Rainy
+2023-05-14,Sofa,Furniture,North,49,398,349,920955,6,Supplier_C,Rainy
+2023-05-14,T-Shirt,Clothing,West,10,161,151,104290,9,Supplier_B,Sunny
+2023-05-14,Jeans,Clothing,East,25,474,449,327300,11,Supplier_C,Cloudy
+2023-05-14,LED TV,Electronics,East,15,485,470,271725,10,Supplier_B,Rainy
+2023-05-14,Microwave,Appliances,West,37,195,158,304510,10,Supplier_A,Rainy
+2023-05-14,Teddy Bear,Toys,North,20,267,247,192820,10,Supplier_C,Rainy
+2023-05-14,Rice Cooker,Appliances,North,11,254,243,191708,9,Supplier_A,Cloudy
+2023-05-21,Smartphone,Electronics,North,10,113,103,10400,2,Supplier_B,Cloudy
+2023-05-21,Laptop,Electronics,East,49,399,350,84770,13,Supplier_C,Stormy
+2023-05-21,Refrigerator,Appliances,North,44,296,252,423236,14,Supplier_B,Stormy
+2023-05-21,Sofa,Furniture,East,47,173,126,930882,8,Supplier_A,Rainy
+2023-05-21,T-Shirt,Clothing,North,9,411,402,169821,4,Supplier_B,Rainy
+2023-05-21,Jeans,Clothing,West,11,260,249,175384,6,Supplier_B,Cloudy
+2023-05-21,LED TV,Electronics,South,0,126,126,0,1,Supplier_B,Cloudy
+2023-05-21,Microwave,Appliances,North,3,321,318,46044,2,Supplier_B,Stormy
+2023-05-21,Teddy Bear,Toys,North,25,191,166,300125,11,Supplier_C,Cloudy
+2023-05-21,Rice Cooker,Appliances,West,34,307,273,237796,4,Supplier_A,Sunny
+2023-05-28,Smartphone,Electronics,West,50,419,369,957450,9,Supplier_C,Stormy
+2023-05-28,Laptop,Electronics,East,0,244,244,0,6,Supplier_C,Cloudy
+2023-05-28,Refrigerator,Appliances,East,39,358,319,58929,2,Supplier_C,Stormy
+2023-05-28,Sofa,Furniture,West,38,275,237,705128,1,Supplier_B,Cloudy
+2023-05-28,T-Shirt,Clothing,North,0,391,391,0,14,Supplier_B,Sunny
+2023-05-28,Jeans,Clothing,West,24,271,247,212256,6,Supplier_B,Rainy
+2023-05-28,LED TV,Electronics,West,46,330,284,98808,7,Supplier_B,Stormy
+2023-05-28,Microwave,Appliances,West,8,248,240,93088,7,Supplier_C,Sunny
+2023-05-28,Teddy Bear,Toys,West,34,134,100,515236,13,Supplier_B,Sunny
+2023-05-28,Rice Cooker,Appliances,North,29,435,406,555785,4,Supplier_A,Stormy
+2023-06-04,Smartphone,Electronics,West,23,351,328,391506,8,Supplier_C,Sunny
+2023-06-04,Laptop,Electronics,South,9,187,178,154323,2,Supplier_B,Rainy
+2023-06-04,Refrigerator,Appliances,North,38,100,62,489440,7,Supplier_A,Sunny
+2023-06-04,Sofa,Furniture,South,3,203,200,49041,10,Supplier_A,Sunny
+2023-06-04,T-Shirt,Clothing,East,31,133,102,300235,5,Supplier_A,Stormy
+2023-06-04,Jeans,Clothing,West,46,223,177,280784,10,Supplier_C,Rainy
+2023-06-04,LED TV,Electronics,South,33,233,200,436722,7,Supplier_B,Stormy
+2023-06-04,Microwave,Appliances,North,40,341,301,284360,2,Supplier_C,Sunny
+2023-06-04,Teddy Bear,Toys,West,8,232,224,64520,14,Supplier_B,Sunny
+2023-06-04,Rice Cooker,Appliances,North,24,435,411,276264,3,Supplier_A,Stormy
+2023-06-11,Smartphone,Electronics,South,36,189,153,45432,7,Supplier_A,Sunny
+2023-06-11,Laptop,Electronics,West,42,457,415,291018,6,Supplier_A,Cloudy
+2023-06-11,Refrigerator,Appliances,West,38,185,147,87666,8,Supplier_A,Cloudy
+2023-06-11,Sofa,Furniture,East,49,355,306,90307,3,Supplier_C,Sunny
+2023-06-11,T-Shirt,Clothing,West,18,445,427,228492,11,Supplier_B,Cloudy
+2023-06-11,Jeans,Clothing,North,49,349,300,572320,7,Supplier_C,Sunny
+2023-06-11,LED TV,Electronics,North,46,245,199,356454,4,Supplier_B,Stormy
+2023-06-11,Microwave,Appliances,East,14,118,104,148708,11,Supplier_A,Cloudy
+2023-06-11,Teddy Bear,Toys,East,19,229,210,257887,7,Supplier_C,Cloudy
+2023-06-11,Rice Cooker,Appliances,North,30,364,334,378690,13,Supplier_B,Cloudy
+2023-06-18,Smartphone,Electronics,North,9,454,445,24570,4,Supplier_C,Stormy
+2023-06-18,Laptop,Electronics,West,19,172,153,26429,6,Supplier_C,Rainy
+2023-06-18,Refrigerator,Appliances,West,50,302,252,514350,12,Supplier_C,Sunny
+2023-06-18,Sofa,Furniture,North,26,172,146,163150,6,Supplier_A,Cloudy
+2023-06-18,T-Shirt,Clothing,West,7,293,286,71708,12,Supplier_C,Stormy
+2023-06-18,Jeans,Clothing,South,3,391,388,31566,14,Supplier_A,Sunny
+2023-06-18,LED TV,Electronics,East,15,272,257,73740,12,Supplier_A,Stormy
+2023-06-18,Microwave,Appliances,North,4,422,418,25732,3,Supplier_B,Sunny
+2023-06-18,Teddy Bear,Toys,South,10,382,372,73340,8,Supplier_B,Sunny
+2023-06-18,Rice Cooker,Appliances,East,1,295,294,19839,9,Supplier_C,Rainy
+2023-06-25,Smartphone,Electronics,West,49,275,226,591528,11,Supplier_C,Stormy
+2023-06-25,Laptop,Electronics,West,17,181,164,203643,1,Supplier_A,Cloudy
+2023-06-25,Refrigerator,Appliances,South,10,286,276,128530,9,Supplier_A,Cloudy
+2023-06-25,Sofa,Furniture,South,27,344,317,466884,4,Supplier_A,Stormy
+2023-06-25,T-Shirt,Clothing,North,19,144,125,76532,14,Supplier_A,Rainy
+2023-06-25,Jeans,Clothing,North,34,338,304,302022,9,Supplier_A,Cloudy
+2023-06-25,LED TV,Electronics,East,25,498,473,58575,8,Supplier_C,Sunny
+2023-06-25,Microwave,Appliances,North,36,353,317,323244,10,Supplier_B,Cloudy
+2023-06-25,Teddy Bear,Toys,West,13,497,484,61711,10,Supplier_C,Sunny
+2023-06-25,Rice Cooker,Appliances,South,14,469,455,22204,5,Supplier_A,Stormy
+2023-07-02,Smartphone,Electronics,South,7,456,449,20356,8,Supplier_C,Cloudy
+2023-07-02,Laptop,Electronics,South,32,271,239,531840,13,Supplier_A,Rainy
+2023-07-02,Refrigerator,Appliances,West,49,390,341,366618,11,Supplier_C,Rainy
+2023-07-02,Sofa,Furniture,East,1,397,396,2260,1,Supplier_B,Sunny
+2023-07-02,T-Shirt,Clothing,South,18,125,107,298098,8,Supplier_A,Stormy
+2023-07-02,Jeans,Clothing,East,38,129,91,287850,1,Supplier_C,Stormy
+2023-07-02,LED TV,Electronics,East,30,166,136,64980,7,Supplier_A,Rainy
+2023-07-02,Microwave,Appliances,West,30,233,203,150960,8,Supplier_A,Rainy
+2023-07-02,Teddy Bear,Toys,East,8,193,185,143584,12,Supplier_B,Stormy
+2023-07-02,Rice Cooker,Appliances,North,23,254,231,380512,11,Supplier_B,Sunny
+2023-07-09,Smartphone,Electronics,South,16,184,168,299264,6,Supplier_B,Cloudy
+2023-07-09,Laptop,Electronics,North,48,243,195,540528,4,Supplier_C,Cloudy
+2023-07-09,Refrigerator,Appliances,East,7,279,272,125671,2,Supplier_A,Stormy
+2023-07-09,Sofa,Furniture,North,4,153,149,69036,7,Supplier_B,Rainy
+2023-07-09,T-Shirt,Clothing,North,10,260,250,46930,12,Supplier_B,Sunny
+2023-07-09,Jeans,Clothing,North,5,198,193,92735,7,Supplier_B,Rainy
+2023-07-09,LED TV,Electronics,West,10,292,282,27300,11,Supplier_B,Stormy
+2023-07-09,Microwave,Appliances,East,29,287,258,137431,9,Supplier_C,Sunny
+2023-07-09,Teddy Bear,Toys,East,37,221,184,276390,3,Supplier_C,Cloudy
+2023-07-09,Rice Cooker,Appliances,South,43,284,241,851787,2,Supplier_A,Stormy
+2023-07-16,Smartphone,Electronics,South,31,307,276,505176,13,Supplier_A,Rainy
+2023-07-16,Laptop,Electronics,West,23,237,214,234991,10,Supplier_B,Rainy
+2023-07-16,Refrigerator,Appliances,West,30,340,310,211230,1,Supplier_A,Sunny
+2023-07-16,Sofa,Furniture,North,29,399,370,507529,14,Supplier_C,Cloudy
+2023-07-16,T-Shirt,Clothing,West,4,245,241,56400,10,Supplier_A,Rainy
+2023-07-16,Jeans,Clothing,East,15,366,351,200415,9,Supplier_C,Stormy
+2023-07-16,LED TV,Electronics,North,34,373,339,595068,10,Supplier_A,Stormy
+2023-07-16,Microwave,Appliances,North,20,264,244,343400,10,Supplier_B,Sunny
+2023-07-16,Teddy Bear,Toys,West,28,103,75,487424,3,Supplier_B,Stormy
+2023-07-16,Rice Cooker,Appliances,East,26,393,367,399880,13,Supplier_A,Rainy
+2023-07-23,Smartphone,Electronics,West,21,255,234,331527,6,Supplier_B,Stormy
+2023-07-23,Laptop,Electronics,South,47,287,240,427042,6,Supplier_B,Cloudy
+2023-07-23,Refrigerator,Appliances,South,7,284,277,74739,13,Supplier_C,Sunny
+2023-07-23,Sofa,Furniture,South,9,127,118,26865,8,Supplier_A,Stormy
+2023-07-23,T-Shirt,Clothing,South,20,421,401,151860,1,Supplier_B,Rainy
+2023-07-23,Jeans,Clothing,West,24,468,444,25944,6,Supplier_C,Stormy
+2023-07-23,LED TV,Electronics,South,50,407,357,282500,6,Supplier_B,Rainy
+2023-07-23,Microwave,Appliances,North,19,337,318,260015,10,Supplier_A,Cloudy
+2023-07-23,Teddy Bear,Toys,South,0,141,141,0,14,Supplier_B,Rainy
+2023-07-23,Rice Cooker,Appliances,West,34,437,403,178024,12,Supplier_C,Sunny
+2023-07-30,Smartphone,Electronics,West,13,308,295,109083,2,Supplier_A,Rainy
+2023-07-30,Laptop,Electronics,West,43,393,350,754908,11,Supplier_C,Stormy
+2023-07-30,Refrigerator,Appliances,East,39,409,370,186108,6,Supplier_C,Sunny
+2023-07-30,Sofa,Furniture,South,23,225,202,450524,4,Supplier_A,Rainy
+2023-07-30,T-Shirt,Clothing,West,49,119,70,330946,8,Supplier_C,Cloudy
+2023-07-30,Jeans,Clothing,West,49,285,236,845103,5,Supplier_C,Stormy
+2023-07-30,LED TV,Electronics,North,45,152,107,382905,5,Supplier_B,Cloudy
+2023-07-30,Microwave,Appliances,North,14,493,479,270298,8,Supplier_C,Cloudy
+2023-07-30,Teddy Bear,Toys,West,33,239,206,361977,13,Supplier_B,Stormy
+2023-07-30,Rice Cooker,Appliances,North,0,333,333,0,9,Supplier_A,Cloudy
+2023-08-06,Smartphone,Electronics,East,36,159,123,652464,11,Supplier_C,Cloudy
+2023-08-06,Laptop,Electronics,North,32,200,168,110592,3,Supplier_C,Cloudy
+2023-08-06,Refrigerator,Appliances,South,25,478,453,115475,7,Supplier_B,Rainy
+2023-08-06,Sofa,Furniture,North,41,231,190,148953,10,Supplier_B,Sunny
+2023-08-06,T-Shirt,Clothing,South,42,466,424,818622,4,Supplier_A,Stormy
+2023-08-06,Jeans,Clothing,North,28,207,179,366940,12,Supplier_B,Stormy
+2023-08-06,LED TV,Electronics,South,8,455,447,60592,14,Supplier_B,Cloudy
+2023-08-06,Microwave,Appliances,East,46,463,417,244674,5,Supplier_B,Sunny
+2023-08-06,Teddy Bear,Toys,South,42,131,89,636384,8,Supplier_A,Sunny
+2023-08-06,Rice Cooker,Appliances,North,18,160,142,124272,7,Supplier_B,Sunny
+2023-08-13,Smartphone,Electronics,West,8,433,425,56400,7,Supplier_B,Sunny
+2023-08-13,Laptop,Electronics,West,48,162,114,856800,13,Supplier_C,Sunny
+2023-08-13,Refrigerator,Appliances,East,22,183,161,257774,12,Supplier_C,Stormy
+2023-08-13,Sofa,Furniture,West,14,421,407,66178,4,Supplier_B,Rainy
+2023-08-13,T-Shirt,Clothing,West,13,123,110,62166,10,Supplier_C,Cloudy
+2023-08-13,Jeans,Clothing,North,17,345,328,185674,13,Supplier_A,Stormy
+2023-08-13,LED TV,Electronics,West,48,370,322,236928,4,Supplier_B,Cloudy
+2023-08-13,Microwave,Appliances,East,45,331,286,878310,3,Supplier_C,Cloudy
+2023-08-13,Teddy Bear,Toys,North,42,193,151,444864,14,Supplier_A,Sunny
+2023-08-13,Rice Cooker,Appliances,West,8,482,474,42216,1,Supplier_A,Cloudy
+2023-08-20,Smartphone,Electronics,South,46,484,438,299644,12,Supplier_C,Stormy
+2023-08-20,Laptop,Electronics,West,6,235,229,102684,7,Supplier_C,Cloudy
+2023-08-20,Refrigerator,Appliances,South,17,291,274,202912,10,Supplier_A,Stormy
+2023-08-20,Sofa,Furniture,South,23,372,349,378695,4,Supplier_A,Rainy
+2023-08-20,T-Shirt,Clothing,South,13,135,122,54418,11,Supplier_A,Stormy
+2023-08-20,Jeans,Clothing,West,21,292,271,132195,2,Supplier_B,Stormy
+2023-08-20,LED TV,Electronics,South,6,321,315,69078,11,Supplier_C,Stormy
+2023-08-20,Microwave,Appliances,East,27,369,342,460242,11,Supplier_A,Stormy
+2023-08-20,Teddy Bear,Toys,West,49,437,388,890869,12,Supplier_B,Sunny
+2023-08-20,Rice Cooker,Appliances,South,18,147,129,260550,12,Supplier_B,Stormy
+2023-08-27,Smartphone,Electronics,West,9,255,246,84393,12,Supplier_C,Sunny
+2023-08-27,Laptop,Electronics,East,45,493,448,563715,3,Supplier_C,Sunny
+2023-08-27,Refrigerator,Appliances,West,29,412,383,32422,14,Supplier_C,Rainy
+2023-08-27,Sofa,Furniture,East,15,165,150,276480,13,Supplier_A,Sunny
+2023-08-27,T-Shirt,Clothing,North,48,232,184,433920,1,Supplier_C,Cloudy
+2023-08-27,Jeans,Clothing,North,45,338,293,338940,8,Supplier_A,Rainy
+2023-08-27,LED TV,Electronics,North,26,119,93,241930,8,Supplier_B,Cloudy
+2023-08-27,Microwave,Appliances,West,22,190,168,126016,13,Supplier_C,Rainy
+2023-08-27,Teddy Bear,Toys,East,44,172,128,787248,12,Supplier_C,Stormy
+2023-08-27,Rice Cooker,Appliances,South,22,179,157,48202,4,Supplier_C,Stormy
+2023-09-03,Smartphone,Electronics,North,39,424,385,149214,6,Supplier_B,Sunny
+2023-09-03,Laptop,Electronics,North,38,298,260,387220,10,Supplier_C,Rainy
+2023-09-03,Refrigerator,Appliances,North,43,136,93,96191,14,Supplier_A,Stormy
+2023-09-03,Sofa,Furniture,East,46,371,325,775238,10,Supplier_C,Cloudy
+2023-09-03,T-Shirt,Clothing,North,21,414,393,79443,8,Supplier_B,Stormy
+2023-09-03,Jeans,Clothing,North,36,388,352,366228,9,Supplier_B,Sunny
+2023-09-03,LED TV,Electronics,West,31,165,134,549041,8,Supplier_C,Cloudy
+2023-09-03,Microwave,Appliances,North,46,182,136,345368,1,Supplier_C,Cloudy
+2023-09-03,Teddy Bear,Toys,East,5,307,302,24070,2,Supplier_A,Stormy
+2023-09-03,Rice Cooker,Appliances,East,27,227,200,455733,2,Supplier_B,Stormy
+2023-09-10,Smartphone,Electronics,North,50,385,335,306150,9,Supplier_B,Cloudy
+2023-09-10,Laptop,Electronics,North,36,356,320,352584,12,Supplier_C,Cloudy
+2023-09-10,Refrigerator,Appliances,West,21,211,190,266616,10,Supplier_C,Stormy
+2023-09-10,Sofa,Furniture,South,34,363,329,596122,13,Supplier_C,Sunny
+2023-09-10,T-Shirt,Clothing,East,43,253,210,693117,7,Supplier_C,Rainy
+2023-09-10,Jeans,Clothing,East,7,209,202,33383,10,Supplier_C,Sunny
+2023-09-10,LED TV,Electronics,East,46,405,359,429410,6,Supplier_A,Cloudy
+2023-09-10,Microwave,Appliances,West,38,118,80,319732,1,Supplier_B,Cloudy
+2023-09-10,Teddy Bear,Toys,North,44,106,62,698720,7,Supplier_A,Stormy
+2023-09-10,Rice Cooker,Appliances,East,48,236,188,116640,5,Supplier_A,Stormy
+2023-09-17,Smartphone,Electronics,South,7,492,485,128170,1,Supplier_C,Cloudy
+2023-09-17,Laptop,Electronics,West,36,256,220,134856,10,Supplier_A,Cloudy
+2023-09-17,Refrigerator,Appliances,West,49,500,451,643762,4,Supplier_C,Rainy
+2023-09-17,Sofa,Furniture,West,44,179,135,708312,3,Supplier_A,Rainy
+2023-09-17,T-Shirt,Clothing,South,8,283,275,126616,8,Supplier_B,Cloudy
+2023-09-17,Jeans,Clothing,South,4,479,475,61624,10,Supplier_A,Cloudy
+2023-09-17,LED TV,Electronics,East,0,148,148,0,11,Supplier_C,Rainy
+2023-09-17,Microwave,Appliances,East,44,466,422,516956,11,Supplier_C,Cloudy
+2023-09-17,Teddy Bear,Toys,North,19,262,243,300884,6,Supplier_C,Rainy
+2023-09-17,Rice Cooker,Appliances,East,36,165,129,347832,10,Supplier_B,Stormy
+2023-09-24,Smartphone,Electronics,South,49,326,277,180222,8,Supplier_A,Rainy
+2023-09-24,Laptop,Electronics,East,21,319,298,353514,4,Supplier_B,Sunny
+2023-09-24,Refrigerator,Appliances,North,29,184,155,450399,4,Supplier_B,Stormy
+2023-09-24,Sofa,Furniture,East,42,452,410,749784,10,Supplier_C,Cloudy
+2023-09-24,T-Shirt,Clothing,East,24,393,369,330936,3,Supplier_C,Sunny
+2023-09-24,Jeans,Clothing,South,39,216,177,709956,12,Supplier_C,Stormy
+2023-09-24,LED TV,Electronics,East,43,336,293,514538,4,Supplier_C,Stormy
+2023-09-24,Microwave,Appliances,East,22,362,340,192280,14,Supplier_B,Rainy
+2023-09-24,Teddy Bear,Toys,North,33,411,378,602877,9,Supplier_A,Sunny
+2023-09-24,Rice Cooker,Appliances,South,37,494,457,75369,4,Supplier_C,Sunny
+2023-10-01,Smartphone,Electronics,West,18,188,170,19206,5,Supplier_B,Rainy
+2023-10-01,Laptop,Electronics,East,39,356,317,726258,13,Supplier_B,Rainy
+2023-10-01,Refrigerator,Appliances,West,2,408,406,32074,10,Supplier_A,Stormy
+2023-10-01,Sofa,Furniture,South,18,435,417,280476,11,Supplier_A,Stormy
+2023-10-01,T-Shirt,Clothing,South,4,260,256,47936,7,Supplier_B,Rainy
+2023-10-01,Jeans,Clothing,East,10,453,443,21790,11,Supplier_B,Cloudy
+2023-10-01,LED TV,Electronics,East,30,314,284,268620,9,Supplier_B,Sunny
+2023-10-01,Microwave,Appliances,West,23,484,461,61387,8,Supplier_C,Sunny
+2023-10-01,Teddy Bear,Toys,South,23,445,422,458643,14,Supplier_A,Sunny
+2023-10-01,Rice Cooker,Appliances,West,47,207,160,667588,5,Supplier_C,Rainy
+2023-10-08,Smartphone,Electronics,West,43,321,278,325983,3,Supplier_B,Stormy
+2023-10-08,Laptop,Electronics,South,42,458,416,31248,5,Supplier_B,Sunny
+2023-10-08,Refrigerator,Appliances,West,4,188,184,56920,8,Supplier_B,Stormy
+2023-10-08,Sofa,Furniture,South,50,143,93,918950,7,Supplier_A,Stormy
+2023-10-08,T-Shirt,Clothing,West,43,266,223,447931,5,Supplier_C,Cloudy
+2023-10-08,Jeans,Clothing,West,49,107,58,88690,13,Supplier_C,Sunny
+2023-10-08,LED TV,Electronics,North,35,482,447,117355,12,Supplier_A,Sunny
+2023-10-08,Microwave,Appliances,North,40,315,275,80920,13,Supplier_A,Sunny
+2023-10-08,Teddy Bear,Toys,South,34,210,176,171700,11,Supplier_B,Cloudy
+2023-10-08,Rice Cooker,Appliances,North,46,118,72,132388,11,Supplier_B,Cloudy
+2023-10-15,Smartphone,Electronics,South,47,400,353,395035,9,Supplier_C,Stormy
+2023-10-15,Laptop,Electronics,South,6,344,338,30078,5,Supplier_C,Cloudy
+2023-10-15,Refrigerator,Appliances,West,25,191,166,20650,5,Supplier_B,Sunny
+2023-10-15,Sofa,Furniture,East,43,454,411,743943,2,Supplier_A,Stormy
+2023-10-15,T-Shirt,Clothing,North,27,263,236,274725,12,Supplier_A,Sunny
+2023-10-15,Jeans,Clothing,North,31,462,431,277977,6,Supplier_B,Rainy
+2023-10-15,LED TV,Electronics,South,3,289,286,33153,1,Supplier_C,Stormy
+2023-10-15,Microwave,Appliances,North,32,390,358,151520,8,Supplier_A,Sunny
+2023-10-15,Teddy Bear,Toys,North,31,295,264,29977,1,Supplier_C,Cloudy
+2023-10-15,Rice Cooker,Appliances,South,20,129,109,248880,1,Supplier_A,Rainy
+2023-10-22,Smartphone,Electronics,North,18,357,339,147060,14,Supplier_A,Stormy
+2023-10-22,Laptop,Electronics,North,32,192,160,339456,2,Supplier_B,Stormy
+2023-10-22,Refrigerator,Appliances,East,15,285,270,199890,7,Supplier_B,Cloudy
+2023-10-22,Sofa,Furniture,North,37,387,350,576312,12,Supplier_C,Cloudy
+2023-10-22,T-Shirt,Clothing,East,27,500,473,456597,8,Supplier_B,Sunny
+2023-10-22,Jeans,Clothing,North,32,219,187,145696,11,Supplier_A,Rainy
+2023-10-22,LED TV,Electronics,East,15,348,333,171780,4,Supplier_C,Stormy
+2023-10-22,Microwave,Appliances,East,7,400,393,58758,5,Supplier_C,Rainy
+2023-10-22,Teddy Bear,Toys,South,20,129,109,222700,11,Supplier_B,Cloudy
+2023-10-22,Rice Cooker,Appliances,North,45,362,317,350820,2,Supplier_B,Rainy
+2023-10-29,Smartphone,Electronics,West,26,470,444,424632,13,Supplier_A,Stormy
+2023-10-29,Laptop,Electronics,South,8,147,139,85184,9,Supplier_A,Stormy
+2023-10-29,Refrigerator,Appliances,North,5,352,347,39305,9,Supplier_B,Rainy
+2023-10-29,Sofa,Furniture,North,1,100,99,7022,6,Supplier_C,Cloudy
+2023-10-29,T-Shirt,Clothing,East,43,203,160,646290,12,Supplier_C,Stormy
+2023-10-29,Jeans,Clothing,South,30,237,207,28470,2,Supplier_A,Sunny
+2023-10-29,LED TV,Electronics,East,9,288,279,115848,7,Supplier_A,Stormy
+2023-10-29,Microwave,Appliances,East,9,187,178,162963,11,Supplier_C,Stormy
+2023-10-29,Teddy Bear,Toys,West,45,338,293,476730,13,Supplier_B,Rainy
+2023-10-29,Rice Cooker,Appliances,North,36,462,426,435420,10,Supplier_C,Cloudy
+2023-11-05,Smartphone,Electronics,East,28,331,303,298704,7,Supplier_A,Sunny
+2023-11-05,Laptop,Electronics,North,16,477,461,48384,9,Supplier_C,Stormy
+2023-11-05,Refrigerator,Appliances,East,36,365,329,97056,12,Supplier_B,Sunny
+2023-11-05,Sofa,Furniture,North,7,189,182,46949,2,Supplier_C,Cloudy
+2023-11-05,T-Shirt,Clothing,West,42,400,358,579768,11,Supplier_A,Stormy
+2023-11-05,Jeans,Clothing,East,16,381,365,268480,9,Supplier_B,Cloudy
+2023-11-05,LED TV,Electronics,East,19,128,109,349106,6,Supplier_A,Cloudy
+2023-11-05,Microwave,Appliances,North,36,278,242,177588,7,Supplier_B,Stormy
+2023-11-05,Teddy Bear,Toys,North,37,322,285,220002,5,Supplier_C,Rainy
+2023-11-05,Rice Cooker,Appliances,South,21,141,120,34419,7,Supplier_A,Stormy
+2023-11-12,Smartphone,Electronics,South,26,445,419,276770,14,Supplier_B,Sunny
+2023-11-12,Laptop,Electronics,South,2,114,112,12126,6,Supplier_B,Sunny
+2023-11-12,Refrigerator,Appliances,East,4,279,275,38172,14,Supplier_A,Cloudy
+2023-11-12,Sofa,Furniture,West,37,264,227,114959,5,Supplier_B,Sunny
+2023-11-12,T-Shirt,Clothing,North,40,385,345,123640,1,Supplier_B,Stormy
+2023-11-12,Jeans,Clothing,East,41,340,299,105493,2,Supplier_A,Stormy
+2023-11-12,LED TV,Electronics,West,15,428,413,184590,5,Supplier_B,Cloudy
+2023-11-12,Microwave,Appliances,East,3,467,464,55824,14,Supplier_C,Cloudy
+2023-11-12,Teddy Bear,Toys,North,40,102,62,380640,6,Supplier_A,Stormy
+2023-11-12,Rice Cooker,Appliances,West,40,367,327,553600,9,Supplier_A,Rainy
+2023-11-19,Smartphone,Electronics,North,40,316,276,258240,3,Supplier_A,Sunny
+2023-11-19,Laptop,Electronics,East,30,444,414,307770,7,Supplier_C,Cloudy
+2023-11-19,Refrigerator,Appliances,North,9,239,230,108747,14,Supplier_A,Stormy
+2023-11-19,Sofa,Furniture,West,20,422,402,179120,2,Supplier_B,Cloudy
+2023-11-19,T-Shirt,Clothing,East,8,318,310,48920,13,Supplier_C,Rainy
+2023-11-19,Jeans,Clothing,East,40,234,194,243080,5,Supplier_C,Stormy
+2023-11-19,LED TV,Electronics,North,18,346,328,63216,3,Supplier_C,Rainy
+2023-11-19,Microwave,Appliances,East,33,422,389,541431,7,Supplier_A,Rainy
+2023-11-19,Teddy Bear,Toys,West,41,371,330,658460,12,Supplier_C,Rainy
+2023-11-19,Rice Cooker,Appliances,West,23,377,354,13869,2,Supplier_C,Cloudy
+2023-11-26,Smartphone,Electronics,North,7,382,375,105728,5,Supplier_B,Rainy
+2023-11-26,Laptop,Electronics,South,10,467,457,72510,9,Supplier_A,Stormy
+2023-11-26,Refrigerator,Appliances,West,28,441,413,158452,1,Supplier_B,Cloudy
+2023-11-26,Sofa,Furniture,West,41,306,265,681379,9,Supplier_A,Cloudy
+2023-11-26,T-Shirt,Clothing,East,48,441,393,148800,13,Supplier_A,Cloudy
+2023-11-26,Jeans,Clothing,North,35,410,375,186305,13,Supplier_B,Rainy
+2023-11-26,LED TV,Electronics,North,20,458,438,137580,9,Supplier_C,Stormy
+2023-11-26,Microwave,Appliances,North,32,137,105,204896,11,Supplier_C,Stormy
+2023-11-26,Teddy Bear,Toys,South,22,204,182,227986,9,Supplier_C,Cloudy
+2023-11-26,Rice Cooker,Appliances,North,20,365,345,112000,13,Supplier_A,Rainy
+2023-12-03,Smartphone,Electronics,East,4,148,144,21768,13,Supplier_B,Stormy
+2023-12-03,Laptop,Electronics,South,50,103,53,202050,5,Supplier_B,Cloudy
+2023-12-03,Refrigerator,Appliances,West,35,115,80,340585,14,Supplier_B,Stormy
+2023-12-03,Sofa,Furniture,East,25,239,214,369350,3,Supplier_B,Rainy
+2023-12-03,T-Shirt,Clothing,South,37,215,178,336996,10,Supplier_C,Cloudy
+2023-12-03,Jeans,Clothing,North,32,298,266,621952,8,Supplier_C,Rainy
+2023-12-03,LED TV,Electronics,South,7,174,167,138908,4,Supplier_B,Rainy
+2023-12-03,Microwave,Appliances,North,46,343,297,377844,3,Supplier_A,Stormy
+2023-12-03,Teddy Bear,Toys,East,6,322,316,18042,1,Supplier_A,Sunny
+2023-12-03,Rice Cooker,Appliances,West,2,193,191,24210,3,Supplier_C,Sunny
+2023-12-10,Smartphone,Electronics,East,32,487,455,156032,8,Supplier_C,Stormy
+2023-12-10,Laptop,Electronics,South,33,288,255,152592,13,Supplier_A,Stormy
+2023-12-10,Refrigerator,Appliances,East,18,426,408,279774,8,Supplier_B,Sunny
+2023-12-10,Sofa,Furniture,West,45,353,308,711540,2,Supplier_B,Rainy
+2023-12-10,T-Shirt,Clothing,West,39,353,314,414531,14,Supplier_C,Rainy
+2023-12-10,Jeans,Clothing,East,21,443,422,226884,6,Supplier_B,Sunny
+2023-12-10,LED TV,Electronics,South,7,243,236,138467,13,Supplier_A,Sunny
+2023-12-10,Microwave,Appliances,West,31,365,334,282875,2,Supplier_C,Rainy
+2023-12-10,Teddy Bear,Toys,North,10,158,148,110500,12,Supplier_B,Stormy
+2023-12-10,Rice Cooker,Appliances,South,12,272,260,108792,1,Supplier_A,Rainy
+2023-12-17,Smartphone,Electronics,South,50,118,68,895300,9,Supplier_B,Cloudy
+2023-12-17,Laptop,Electronics,North,1,309,308,5261,8,Supplier_A,Stormy
+2023-12-17,Refrigerator,Appliances,West,50,321,271,408000,8,Supplier_B,Stormy
+2023-12-17,Sofa,Furniture,West,38,457,419,619818,5,Supplier_B,Stormy
+2023-12-17,T-Shirt,Clothing,North,7,284,277,14308,5,Supplier_A,Stormy
+2023-12-17,Jeans,Clothing,West,4,393,389,37980,4,Supplier_B,Rainy
+2023-12-17,LED TV,Electronics,West,11,496,485,65747,6,Supplier_C,Rainy
+2023-12-17,Microwave,Appliances,South,46,483,437,32154,9,Supplier_B,Sunny
+2023-12-17,Teddy Bear,Toys,North,43,291,248,518064,2,Supplier_B,Cloudy
+2023-12-17,Rice Cooker,Appliances,South,43,402,359,402437,1,Supplier_A,Cloudy
+2023-12-24,Smartphone,Electronics,North,19,365,346,126255,1,Supplier_A,Rainy
+2023-12-24,Laptop,Electronics,East,18,195,177,276642,14,Supplier_A,Stormy
+2023-12-24,Refrigerator,Appliances,East,18,211,193,185508,10,Supplier_B,Sunny
+2023-12-24,Sofa,Furniture,North,37,176,139,454545,7,Supplier_A,Cloudy
+2023-12-24,T-Shirt,Clothing,East,40,380,340,613920,1,Supplier_C,Stormy
+2023-12-24,Jeans,Clothing,South,13,479,466,122213,6,Supplier_B,Sunny
+2023-12-24,LED TV,Electronics,East,37,220,183,443741,10,Supplier_B,Rainy
+2023-12-24,Microwave,Appliances,North,40,200,160,657440,2,Supplier_A,Rainy
+2023-12-24,Teddy Bear,Toys,West,24,432,408,394920,6,Supplier_C,Sunny
+2023-12-24,Rice Cooker,Appliances,South,26,486,460,320658,6,Supplier_B,Stormy
+2023-12-31,Smartphone,Electronics,East,3,241,238,11526,11,Supplier_B,Cloudy
+2023-12-31,Laptop,Electronics,North,39,492,453,515775,8,Supplier_B,Sunny
+2023-12-31,Refrigerator,Appliances,East,35,123,88,316120,9,Supplier_B,Stormy
+2023-12-31,Sofa,Furniture,West,2,447,445,36212,10,Supplier_A,Sunny
+2023-12-31,T-Shirt,Clothing,South,0,483,483,0,11,Supplier_C,Cloudy
+2023-12-31,Jeans,Clothing,West,13,399,386,42783,1,Supplier_B,Sunny
+2023-12-31,LED TV,Electronics,East,37,173,136,605838,2,Supplier_A,Sunny
+2023-12-31,Microwave,Appliances,West,50,100,50,430450,10,Supplier_B,Rainy
+2023-12-31,Teddy Bear,Toys,North,49,327,278,888664,1,Supplier_A,Rainy
+2023-12-31,Rice Cooker,Appliances,South,27,322,295,236169,3,Supplier_A,Sunny
