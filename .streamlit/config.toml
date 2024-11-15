@@ -1,0 +1,11 @@
+[theme]
+base="light"
+
+
+
+
+# Optional custom settings for dark theme only
+[theme.dark]
+
+
+
